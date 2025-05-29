@@ -2,7 +2,7 @@
 # Matias Dubin
 
 ## 🚀 About Me
-Soy un estudiante en la escuela tecnica ORT y aspiro a ser ingeniero en sistemas en la utn. Me gusta el desarrollo Back-End
+I'm a student at ORT Technical School and aspire to become a systems engineer at UTN. I enjoy back-end development. 
 
 
 ## 🛠 Skills
